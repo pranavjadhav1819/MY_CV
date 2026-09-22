@@ -1,592 +1,469 @@
-# ⚡ PRANAV18 — Personal Portfolio
+<!-- ========================================================= -->
+
+<!--                    PRANAV18 README                        -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-### Pranav Jadhav
+<!-- Animated Header -->
 
-**Computer Engineering Student · Full-Stack Developer · AI/ML Explorer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=PRANAV18&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit-7c5cff?style=for-the-badge)](https://pranav18.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-pranavjadhav1819-181717?style=for-the-badge\&logo=github)](https://github.com/pranavjadhav1819)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Jadhav-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/pranav-jadhav-31006b373)
+<br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Responsive-Design-10b981?style=flat-square" />
+<!-- Typing SVG -->
+
+<a href="https://github.com/pranavjadhav1819">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;AI%2FML+Enthusiast;Building+Useful+Products;Turning+Ideas+Into+Code+%E2%9A%A1" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<p>
+  <a href="https://pranavjadhav.onrender.com">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-06B6D4?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-jadhav-31006b373/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pranavjadhav1819">
+    <img src="https://img.shields.io/badge/GitHub-PranavJadhav-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About
+## 👨‍💻 About Me
 
-**PRANAV18** is my personal interactive developer portfolio, designed to showcase my academic journey, technical skills, projects, certifications, and interests in software engineering and AI/ML.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Hello, I'm Pranav Jadhav 👋                               │
+│                                                              │
+│  🎓 Computer Engineering Student                            │
+│  💻 Full-Stack Developer                                    │
+│  🤖 AI/ML Enthusiast                                        │
+│  🚀 Product Builder                                         │
+│                                                              │
+│  I enjoy turning ideas into practical, useful software.      │
+│  Currently exploring Web Development, AI/ML, APIs,          │
+│  databases and scalable application architecture.            │
+└──────────────────────────────────────────────────────────────┘
+```
 
-The portfolio combines a futuristic visual system with practical interactive features such as an animated terminal, project filtering, AI-style assistant, theme switching, sound effects, animated backgrounds, and responsive layouts.
-
-> **"Building systems. Exploring intelligence. Engineering the future."**
+> **Build → Learn → Improve → Repeat. ⚡**
 
 ---
 
-## ✨ Features
+# 📊 GitHub Analytics
 
-### 🎨 Modern UI
+<div align="center">
 
-* 🌌 Animated space/celestial background
-* 🌈 Aurora-style animated glow effects
-* 🧊 Glassmorphism cards
-* ⚡ Gradient typography and buttons
-* 🖱️ Custom animated cursor
-* 📱 Fully responsive design
-* 🌙 Dark / Light theme
-* 🎬 Scroll-reveal animations
-* ✨ Interactive hover effects
-* 🔊 Futuristic UI sound effects
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavjadhav1819&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
-### 🧠 Interactive Features
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjadhav1819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-* 💻 Interactive cyber terminal
-* 🤖 Built-in AI-style portfolio assistant
-* 📊 Animated skill bars
-* 🔎 Project category filtering
-* ⌨️ Terminal command system
-* 🎉 Interactive confetti effect
-* ⌨️ Typewriter role animation
-* 📱 Mobile navigation
-* 📩 Interactive contact form
+</div>
 
-### 🖥️ Terminal Commands
+<br/>
 
-The portfolio contains an interactive terminal.
+<div align="center">
 
-```text
-help
-whoami
-scores
-education
-skills
-projects
-contact
-clear
-sudo hire pranav
-```
+<img src="https://streak-stats.demolab.com?user=pranavjadhav1819&theme=tokyonight&hide_border=true" width="70%"/>
 
-Example:
+</div>
 
-```text
-➜ ~ skills
+<br/>
 
-> Languages:
-  C, C++, Python, Java, JavaScript, SQL
+<div align="center">
 
-> Web:
-  HTML5, CSS3, React.js, Node.js, Express.js, REST APIs
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavjadhav1819&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-> Databases & Tools:
-  MySQL, MongoDB, Git, GitHub, VS Code
-```
+</div>
 
 ---
 
-# 🖼️ Screenshots
+# 🧠 Tech Stack
 
-> Replace the image paths below with screenshots from your portfolio repository.
+<div align="center">
 
-### 🏠 Hero Section
+### Languages
 
-```text
-screenshots/
-└── hero.png
-```
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,c" />
 
-![Portfolio Hero](screenshots/hero.png)
+### Frontend
 
-### 💻 Interactive Terminal
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js" />
 
-![Interactive Terminal](screenshots/terminal.png)
+### Backend
 
-### 🚀 Projects
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-![Projects Section](screenshots/projects.png)
+### Databases & Cloud
 
-### 🧠 AI Assistant
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase" />
 
-![AI Assistant](screenshots/ai-assistant.png)
+### Tools
 
-### 📱 Mobile View
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
-![Mobile View](screenshots/mobile.png)
+### AI / Data
 
----
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 
-# 🛠️ Tech Stack
-
-## Frontend
-
-| Technology   | Usage                                     |
-| ------------ | ----------------------------------------- |
-| HTML5        | Semantic page structure                   |
-| CSS3         | Styling, animations and responsive layout |
-| JavaScript   | Interactions and application logic        |
-| Google Fonts | Typography                                |
-| SVG          | Icons and vector graphics                 |
-| Canvas API   | Space effects and confetti                |
-
-## Programming
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-
-## Web & Backend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-
-## Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-
-## AI / Data
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-
----
-
-# 📂 Project Structure
-
-```text
-PRANAV18/
-│
-├── index.html
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── resume/
-│
-├── screenshots/
-│   ├── hero.png
-│   ├── terminal.png
-│   ├── projects.png
-│   ├── ai-assistant.png
-│   └── mobile.png
-│
-├── README.md
-└── LICENSE
-```
-
-> If your current repository uses a different folder structure, update this section to match the actual files.
-
----
-
-# 🚀 Getting Started
-
-## 1. Clone the repository
-
-```bash
-git clone https://github.com/pranavjadhav1819/PRANAV18.git
-```
-
-## 2. Enter the project
-
-```bash
-cd PRANAV18
-```
-
-## 3. Run locally
-
-Because the portfolio is built around HTML, CSS and JavaScript, it can be opened directly in a browser.
-
-```text
-Open:
-index.html
-```
-
-For a better development experience, use VS Code with **Live Server**.
-
-### Using Live Server
-
-1. Open the project in VS Code.
-2. Install the **Live Server** extension.
-3. Right-click `index.html`.
-4. Select **Open with Live Server**.
-
-The portfolio should open at a local address similar to:
-
-```text
-http://127.0.0.1:5500/
-```
-
----
-
-# 🌐 Deployment
-
-The portfolio can be deployed as a static website using services such as:
-
-* GitHub Pages
-* Render
-* Vercel
-* Netlify
-
-### Example Render deployment
-
-1. Push the project to GitHub.
-2. Create a new Static Site on Render.
-3. Connect your GitHub repository.
-4. Select the repository.
-5. Set the publish directory to the project root.
-6. Deploy.
-
-Your deployed portfolio can then be connected to a custom domain.
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 1. TALLY — Smart Expense Splitter
+<div align="center">
 
-A smart group-expense splitter designed to simplify settlements between multiple people.
+<table>
+<tr>
 
-### Features
+<td width="50%" valign="top">
 
-* Minimum-cash-flow greedy algorithm
-* UPI deep-link generation
-* Excel export
-* CSV export
-* Offline-first PWA caching
+### 💸 TALLY
 
-**Category:** Full-Stack / PWA
+**Smart Expense Splitter**
+
+A modern expense-sharing application designed to simplify group settlements.
+
+**Highlights**
+
+* 💰 Expense splitting
+* 🧮 Greedy settlement algorithm
+* 📱 PWA experience
+* 🔗 UPI-oriented workflow
+* ⚡ Responsive interface
+
+**Stack**
+
+`JavaScript` `HTML` `CSS` `PWA`
+
+<br/>
+
+<a href="https://github.com/pranavjadhav1819">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🇮🇳 IPGK
+
+**India Public Knowledge Graph**
+
+A knowledge-graph project focused on connecting structured information about India.
+
+**Highlights**
+
+* 🧠 Knowledge graphs
+* 🔗 Entity relationships
+* 📊 Data pipelines
+* 🗃️ Structured information
+* 🔍 Searchable knowledge
+
+**Stack**
+
+`Python` `Graph DB` `Data Engineering`
+
+<br/>
+
+<a href="https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph-">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗣️ YOJANA SAHAYAK
+
+**AI Government Scheme Assistant**
+
+A multilingual assistant designed to help users discover relevant Indian government schemes.
+
+**Highlights**
+
+* 🎙️ Voice interaction
+* 🌐 Hindi + Marathi
+* 🤖 AI/NLP
+* 🔎 Scheme discovery
+* ⚡ React + Node architecture
+
+**Stack**
+
+`React` `Node.js` `Express` `Supabase` `NLP`
+
+<br/>
+
+<a href="https://github.com/pranavjadhav1819/yojana-sahayak">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 GCOEARA NOTES
+
+**Student Notes Platform**
+
+A notes and previous-question-paper platform created for GCOEARA students.
+
+**Highlights**
+
+* 📖 Notes collection
+* 📝 PYQs
+* 🔎 Subject search
+* 🎓 Branch/year filtering
+* ☁️ Supabase backend
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Supabase`
+
+<br/>
+
+<a href="https://github.com/pranavjadhav1819/GCOEARA_NOTES">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔥 HABIT TRACKER
+
+**Ledger**
+
+A full-stack habit tracking concept focused on consistency, progress and personal analytics.
+
+**Highlights**
+
+* ✅ Daily habits
+* 📈 Progress tracking
+* 📝 Notes
+* 🔐 Authentication
+* 📊 Statistics
+
+**Stack**
+
+`React` `TypeScript` `Node.js` `Express` `Supabase`
+
+<br/>
+
+<a href="https://github.com/pranavjadhav1819/Habit-Tracker">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 STUDENT MANAGEMENT SYSTEM
+
+**Academic Management Application**
+
+A Python/MySQL project for managing student-related academic information.
+
+**Highlights**
+
+* 👨‍🎓 Student records
+* 🗃️ Database operations
+* 🔐 Data management
+* 📋 CRUD functionality
+
+**Stack**
+
+`Python` `MySQL`
+
+<br/>
+
+<a href="https://github.com/pranavjadhav1819">
+<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 2. IPGK — India Public Knowledge Graph
+# 🖥️ Interactive Portfolio
 
-An open-data infrastructure project focused on connecting Indian civic datasets, entities and public-welfare relationships through knowledge graphs.
+My portfolio isn't just a static webpage.
 
-### Tech
+It includes an interactive developer-style interface with:
 
 ```text
-Python
-Graph Databases
-Knowledge Graphs
-Data Pipelines
+┌─────────────────────────────────────────────┐
+│              PRANAV18 TERMINAL              │
+├─────────────────────────────────────────────┤
+│                                             │
+│  $ help                                     │
+│                                             │
+│  whoami       → About me                    │
+│  scores       → Academic highlights         │
+│  education    → Education                   │
+│  skills       → Technical skills            │
+│  projects     → Featured projects            │
+│  contact      → Contact information         │
+│  clear        → Clear terminal              │
+│                                             │
+│  $ sudo hire pranav                         │
+│  → Initiating collaboration... ⚡           │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
-🔗 [View Repository](https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph-)
+### ✨ Portfolio Features
+
+* 🖥️ Interactive terminal
+* 🤖 AI-style assistant
+* 🎨 Theme switching
+* ⚡ Animated UI
+* 📊 Animated skill bars
+* 🔎 Project filtering
+* 🎉 Interactive effects
+* 📱 Responsive design
+* 🧭 Smooth navigation
+* 🎯 Custom cursor
+* 🔊 UI sound effects
+* ✍️ Typewriter animations
 
 ---
 
-## 3. Yojana Sahayak
+# 📈 Contribution Activity
 
-A multilingual voice-first assistant designed to make Indian government welfare schemes easier to discover and understand.
+<div align="center">
 
-### Features
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavjadhav1819&theme=tokyonight" width="95%"/>
 
-* Hindi support
-* Marathi support
-* Speech-to-text
-* NLP
-* Semantic indexing
-* Voice-first interaction
-
-### Tech
-
-```text
-Python
-NLP
-Speech-to-Text
-FastAPI
-```
-
-**Status:** 🚧 Active Development
-
----
-
-## 4. Student Management System
-
-Academic administration software for managing student records and calculating academic rankings.
-
-### Features
-
-* Student CRUD operations
-* Search and update functionality
-* MySQL database
-* GPA calculations
-* Ranking system
-
-### Tech
-
-```text
-Python
-MySQL
-CRUD Architecture
-Relational Database
-```
-
----
-
-## 5. Habit Tracker — Ledger
-
-A full-stack habit and goal accountability platform.
-
-### Features
-
-* Habit streak tracking
-* Calendar visualization
-* Completion statistics
-* Goal tracking
-* Notification triggers
-
-### Tech
-
-```text
-React
-Node.js
-Express
-MongoDB
-```
-
-🔗 [View Repository](https://github.com/pranavjadhav1819/Habit-Tracker)
-
----
-
-## 6. GCOEARA Notes
-
-A student-focused academic resource hub for sharing engineering notes, question banks and learning resources.
-
-### Tech
-
-```text
-Web Stack
-Cloud Storage
-Community Hub
-```
-
-🔗 [View Repository](https://github.com/pranavjadhav1819/GCOEARA_NOTES)
+</div>
 
 ---
 
 # 🎓 Education
 
-### Government College of Engineering and Research, Awasari Khurd — GCOEARA
+### Government College of Engineering and Research, Avasari Khurd
 
-**Bachelor of Engineering — Computer Engineering**
+**B.E. Computer Engineering**
+`2024 — 2028`
 
-**2024 – 2028**
+### Academic Highlights
 
-Affiliated with:
-
-**Savitribai Phule Pune University — SPPU**
-
----
-
-# 🏆 Academic Highlights
-
-| Achievement  |         Result |
-| ------------ | -------------: |
-| MHT-CET 2024 | **95.58 %ile** |
-| HSC 2024     |     **78.00%** |
-| SSC 2022     |     **81.60%** |
+| Qualification |               Result |
+| ------------- | -------------------: |
+| MHT-CET       | **95.58 Percentile** |
+| HSC           |              **78%** |
+| SSC           |           **81.60%** |
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
-### 🐍 Python Programming
+<div align="center">
 
-**Infosys Springboard**
+| Certification                 | Platform            |
+| ----------------------------- | ------------------- |
+| 🐍 Python Programming         | Infosys Springboard |
+| 🌐 Full-Stack Web Development | Udemy               |
+| 🤖 AI & Machine Learning      | Coursera            |
 
-Python programming, OOP, data structures and automation scripting.
-
-### 🌐 Full-Stack Web Development
-
-**Udemy**
-
-Full-stack architecture, React, asynchronous JavaScript and REST APIs.
-
-### 🧠 AI & Machine Learning
-
-**Coursera**
-
-Machine learning fundamentals, optimization, neural networks and model evaluation.
+</div>
 
 ---
 
-# 🤖 Portfolio AI Assistant
-
-The portfolio includes an interactive assistant that can answer questions about:
+# 🎯 Current Focus
 
 ```text
-Academic Scores
-Education
-Skills
-Projects
-Technology Stack
-Contact Information
-Resume
+                    2026 → 2028
+
+       ┌─────────────────────────────┐
+       │       COMPUTER SCIENCE      │
+       └──────────────┬──────────────┘
+                      │
+          ┌───────────┼───────────┐
+          ↓           ↓           ↓
+      Full Stack     AI/ML     System Design
+          │           │           │
+          └───────────┼───────────┘
+                      ↓
+              Real-world Products
+                      │
+                      ↓
+                 🚀 BUILD
 ```
 
-Example questions:
+Currently focusing on:
 
-```text
-What are Pranav's skills?
-Tell me about Tally.
-What is his CET score?
-Where does he study?
-How can I contact Pranav?
-Show me his resume.
-```
-
-The assistant runs through client-side JavaScript logic and does not require an external AI API for the documented responses.
+* Full-stack application development
+* AI/ML integration
+* Backend architecture
+* Databases
+* APIs
+* Data structures & algorithms
+* Building production-ready projects
 
 ---
 
-# 🎨 Design System
+# 🌐 Connect With Me
 
-The portfolio uses a futuristic developer-oriented visual language.
+<div align="center">
 
-### Colors
+<a href="https://pranavjadhav.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-```text
-Primary     → #7c5cff
-Cyan        → #00f2fe
-Green       → #10b981
-Amber       → #f59e0b
-Rose        → #ff477e
-Background  → #07090e
-```
+<a href="https://github.com/pranavjadhav1819">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Fonts
+<a href="https://www.linkedin.com/in/pranav-jadhav-31006b373/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-```text
-Space Grotesk
-Inter
-JetBrains Mono
-Syne
-```
+<a href="mailto:jadhav.pranav.1819@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-The project also includes separate dark and light theme variables.
-
----
-
-# 📱 Responsive Design
-
-The portfolio adapts across:
-
-```text
-Desktop
-       ↓
-Tablet
-       ↓
-Mobile
-```
-
-Responsive behavior includes:
-
-* Mobile navigation
-* Single-column project layout
-* Responsive skill cards
-* Responsive hero section
-* Mobile-friendly chatbot
-* Hidden custom cursor on mobile
-
----
-
-# 🔐 Security & Privacy
-
-This portfolio is primarily a client-side showcase.
-
-Recommended production practices:
-
-* Never commit API keys.
-* Never expose database credentials.
-* Keep secrets inside environment variables.
-* Validate server-side form submissions if a backend is added.
-* Use HTTPS in production.
-* Keep dependencies updated.
-
----
-
-# 📈 Future Improvements
-
-Planned possibilities include:
-
-* [ ] Real AI API integration
-* [ ] Blog / technical articles
-* [ ] GitHub contribution dashboard
-* [ ] Live GitHub repository statistics
-* [ ] Project demo videos
-* [ ] Advanced analytics
-* [ ] CMS-powered project management
-* [ ] More accessibility improvements
-* [ ] PWA installation support
-* [ ] Custom domain
-
----
-
-# 📬 Contact
-
-I'm open to discussions around:
-
-```text
-Software Engineering
-Full-Stack Development
-AI / ML
-Web Applications
-Internships
-Open-Source Projects
-Technical Collaborations
-```
-
-### 📧 Email
-
-**[jadhav.pranav.1819@gmail.com](mailto:jadhav.pranav.1819@gmail.com)**
-
-### 💼 LinkedIn
-
-**https://linkedin.com/in/pranav-jadhav-31006b373**
-
-### 🐙 GitHub
-
-**https://github.com/pranavjadhav1819**
-
-### 📄 Resume
-
-[View / Download Resume](https://github.com/pranavjadhav1819/MY_CV/raw/main/assets/Pranav_Jadhav_CV.pdf)
-
----
-
-# ⭐ Support
-
-If you find this portfolio interesting, consider giving the repository a ⭐ on GitHub.
-
-It helps support the project and encourages continued development.
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Built by Pranav Jadhav
+### 💭 Developer Philosophy
 
-**Computer Engineering Student · Full-Stack Developer · AI/ML Explorer**
+**"Don't just learn technology. Build something with it."**
 
-[![GitHub](https://img.shields.io/badge/GitHub-pranavjadhav1819-181717?style=for-the-badge\&logo=github)](https://github.com/pranavjadhav1819)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/pranav-jadhav-31006b373)
+<img src="https://komarev.com/ghpvc/?username=pranavjadhav1819&label=Profile%20Views&color=06B6D4&style=for-the-badge" />
 
-**"Build. Learn. Iterate. Ship."**
+<br/><br/>
+
+⭐ **If you find my projects interesting, consider starring the repositories!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
 
 </div>
